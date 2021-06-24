@@ -2,11 +2,11 @@
 ## The economy add-on for Camp Lazlo
 
 This add-on implements custom currency in Minecraft, which players can use for trading. Currently, there are five tiers in the currency system:
-- Copper
-- Silver
-- Gold
-- Platinum
-- Emerald
+- Copper ![CopperCoin](https://github.com/Baconfry/cash-lazlo/blob/main/Cash%20Lazlo/Cash%20Lazlo%20Resource%20Pack/textures/items/copper_coin.png)
+- Silver ![SilverCoin](https://github.com/Baconfry/cash-lazlo/blob/main/Cash%20Lazlo/Cash%20Lazlo%20Resource%20Pack/textures/items/silver_coin.png)
+- Gold ![GoldCoin](https://github.com/Baconfry/cash-lazlo/blob/main/Cash%20Lazlo/Cash%20Lazlo%20Resource%20Pack/textures/items/gold_coin.png)
+- Platinum ![PlatinumCoin](https://github.com/Baconfry/cash-lazlo/blob/main/Cash%20Lazlo/Cash%20Lazlo%20Resource%20Pack/textures/items/platinum_coin.png)
+- Emerald ![EmeraldCoin](https://github.com/Baconfry/cash-lazlo/blob/main/Cash%20Lazlo/Cash%20Lazlo%20Resource%20Pack/textures/items/emerald_coin.png)
 
 The superseding tier is worth five (5) coins of the previous tier, so one (1) silver coin is equivalent to five (5) copper coins, and so on. You can convert coins back and forth the tiers using the crafting table. This add-on also adds loot drops for hostile mobs, making them drop coins.
 
