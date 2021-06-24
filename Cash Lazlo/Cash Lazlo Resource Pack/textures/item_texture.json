@@ -21,6 +21,11 @@
          "textures": [
             "textures/items/platinum_coin"
          ]
+      },
+      "emerald_coin": {
+         "textures": [
+            "textures/items/emerald_coin"
+         ]
       }
    }
 }

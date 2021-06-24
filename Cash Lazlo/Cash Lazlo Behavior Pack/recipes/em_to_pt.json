@@ -1,0 +1,22 @@
+{
+   "format_version": "1.12",
+   "minecraft:recipe_shapeless": {
+      "description": {
+         "identifier": "em_to_pt"
+      },
+      "tags": [
+         "crafting_table"
+      ],
+      "ingredients": [
+         {
+            "item": "lazlo:emerald_coin",
+            "count": 1,
+            "data": 0
+         }
+      ],
+      "result": {
+         "item": "lazlo:platinum_coin",
+         "count": 5
+      }
+   }
+}
