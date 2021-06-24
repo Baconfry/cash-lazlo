@@ -10,7 +10,6 @@
          "minecraft:can_destroy_in_creative": true,
          "minecraft:damage": 1,
          "minecraft:display_name": {},
-         "minecraft:foil": false,
          "minecraft:icon": {
             "texture": "silver_coin"
          }
