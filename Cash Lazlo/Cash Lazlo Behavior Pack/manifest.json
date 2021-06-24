@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+        "uuid": "b6225b9c-39c1-414a-8e88-f0f39d36ad7f",
+        "version": [0, 0, 1]
+        }
+    ],
+    "format_version": 2,
+    "header": {
+        "description": "The economy add-on for Camp Lazlo.",
+        "min_engine_version": [1, 16, 0],
+        "name": "Cash Lazlo",
+        "uuid": "6203c81d-32cb-4a89-b8ba-3de4f66e2c7f",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+        "type": "data",
+        "uuid": "e0b71573-d576-4105-a492-dbf4b4a63834",
+        "version": [0, 0, 1]
+        }
+    ]
+}

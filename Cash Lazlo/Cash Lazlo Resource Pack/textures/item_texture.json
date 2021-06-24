@@ -1,0 +1,26 @@
+{
+   "resource_pack_name": "vanilla",
+   "texture_name": "atlas.items",
+   "texture_data": {
+      "copper_coin": {
+         "textures": [
+            "textures/items/copper_coin"
+         ]
+      },
+      "silver_coin": {
+         "textures": [
+            "textures/items/silver_coin"
+         ]
+      },
+      "gold_coin": {
+         "textures": [
+            "textures/items/gold_coin"
+         ]
+      },
+      "platinum_coin": {
+         "textures": [
+            "textures/items/platinum_coin"
+         ]
+      }
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "format_version": "1.16.100",
+   "minecraft:item": {
+      "description": {
+         "category": "items",
+         "identifier": "lazlo:silver_coin"
+      },
+      "components": {
+         "minecraft:allow_off_hand": true,
+         "minecraft:can_destroy_in_creative": true,
+         "minecraft:damage": 1,
+         "minecraft:display_name": {},
+         "minecraft:foil": false,
+         "minecraft:icon": {
+            "texture": "silver_coin"
+         }
+      }
+   }
+}
