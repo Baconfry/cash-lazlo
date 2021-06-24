@@ -28,7 +28,7 @@ If you want to edit this mod and compile it for your own use, simply modify the 
 
 ## Known bugs
 
-A known bug is that "Nature" and "Items" categories for silver, gold, and platinum coins do not work correctly. This is likely a Minecraft bug. A workaround for this is to set all of the coins' categories to "Equipment".
+A known bug is that categories for the coins do not work properly. This is likely a Minecraft bug. There is currently no workarounds for this bug.
 
 ## Credits
 
