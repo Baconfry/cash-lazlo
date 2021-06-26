@@ -30,7 +30,7 @@
           "teleport_to_bank": {
              "run_command": {
                 "command": [
-                   "tp @s 1384 65 -3"
+                   "tp @s 1383 65 -3"
                 ]
              },
              "swing": {}
