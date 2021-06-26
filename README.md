@@ -12,7 +12,7 @@ The superseding tier is worth five (5) coins of the previous tier, so one (1) si
 
 ## World prerequisites
 
-As of Minecraft `1.17.0`, this add-on needs some settings to be configured in the world or server. Refer to the image below.
+As of Minecraft `1.17.2`, this add-on needs some settings to be configured in the world or server. Refer to the image below.
 
 ![Settings configuration](https://github.com/Baconfry/cash-lazlo/blob/main/Documentation/Settings.png)
 
@@ -28,7 +28,7 @@ If you want to edit this mod and compile it for your own use, simply modify the 
 
 ## Known bugs
 
-A known bug is that categories for the coins do not work properly. This is likely a Minecraft bug. There is currently no workarounds for this bug.
+A known bug is that categories for the coins do not work properly. This is likely a Minecraft bug. There are currently no workarounds for this bug.
 
 ## Credits
 
