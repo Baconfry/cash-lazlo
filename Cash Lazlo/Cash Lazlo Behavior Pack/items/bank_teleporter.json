@@ -1,0 +1,40 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:item": {
+       "description": {
+          "category": "items",
+          "identifier": "lazlo:bank_teleporter"
+       },
+       "components": {
+          "minecraft:allow_off_hand": true,
+          "minecraft:can_destroy_in_creative": true,
+          "minecraft:cooldown": {
+             "category": "ender_pearl",
+             "duration": 1
+          },
+          "minecraft:damage": 1,
+          "minecraft:display_name": {},
+          "minecraft:foil": true,
+          "minecraft:icon": {
+             "texture": "bank_teleporter"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:on_use": {
+             "on_use": {
+                "event": "teleport_to_bank"
+             }
+          },
+          "minecraft:use_duration": 1
+       },
+       "events": {
+          "teleport_to_bank": {
+             "run_command": {
+                "command": [
+                   "tp @s 1384 65 -3"
+                ]
+             },
+             "swing": {}
+          }
+       }
+    }
+ }

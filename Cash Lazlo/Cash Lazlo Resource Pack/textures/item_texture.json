@@ -26,6 +26,11 @@
          "textures": [
             "textures/items/emerald_coin"
          ]
+      },
+      "bank_teleporter": {
+         "textures": [
+            "textures/items/bank_teleporter"
+         ]
       }
    }
 }
