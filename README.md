@@ -10,7 +10,7 @@ This add-on implements custom currency in Minecraft, which players can use for t
 
 The superseding tier is worth five (5) coins of the previous tier, so one (1) silver coin is equivalent to five (5) copper coins, and so on. You can convert coins back and forth the tiers using the crafting table. This add-on also adds loot drops for hostile mobs, making them drop coins.
 
-**PRO TIP:** If you haven't yet, check out the [currency converter](https://github.com/Baconfry/cash-lazlo-calculator/releases) written for Windows. It converts copper coins to mixtures of different coins. It's very useful if you're trading thousands of copper regularly!
+**PRO TIP:** If you haven't yet, check out the [currency converter](https://github.com/Baconfry/cash-lazlo-calculator/releases) written for Windows. It converts coins to mixtures of different coins. Since the conversion rates are not by 10, this calculator is very useful if you're trading thousands of copper regularly!
 
 Moreover, this add-on implements a special item that lets the banker (ar anyone in possession of the item) teleport to a specific set location, which is the bank in this case. This is handy when the bank has a customer that needs attending to and the banker is away.
 
@@ -33,6 +33,7 @@ If you want to edit this mod and compile it for your own use, simply modify the 
 ## Known bugs
 
 A known bug is that categories for the coins do not work properly. This is likely a Minecraft bug. There are currently no workarounds for this bug.
+This seems to not be present in Aternos servers.
 
 ## Credits
 
